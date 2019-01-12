@@ -1,0 +1,55 @@
+/* css stylesheet */
+body{
+    background: #EBABF7;
+}
+.title{
+    background: #730F87;
+    color: white;
+    padding: 5px;
+    margin: 5px 0px;
+    width: 50%;
+    text-align: center;   
+}
+.instruction{
+    background: white;
+    width: 50%;
+    height: 40%;
+    padding: 5px;
+    margin: 5px 0px;
+}
+.number{
+    background: #D508FE;
+    float: left;
+    height: 100px;
+    width: 25%;
+    padding: 5px;
+    font-size: 50px;
+}
+.W-L{
+    background: #D508FE;
+    float: left;
+    height: 100px;
+    width: 25%;
+    padding: 5px;
+}
+img{
+    height: 120px;
+    width: 150px;
+    border-radius: 25px;
+    margin: 5px;
+}
+.score{
+    background: white;
+    width: 50%;
+    height: 20%;
+    margin: 5px 0px;
+    padding: 5px 0px;
+}
+.totalScore{
+    background: white;
+    width: 50%;
+    height: 20%;
+    margin: 5px 0px;
+    padding: 5px 0px;
+    font-size: 50px;
+}
